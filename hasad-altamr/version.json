@@ -1,0 +1,6 @@
+{
+  "android": { "latest": 7, "minimum": 1 },
+  "ios": { "latest": 0, "minimum": 0 },
+  "notes_ar": "تحسينات وإصلاحات تخلي اللعب أنعم.",
+  "notes_en": "Improvements and fixes for smoother play."
+}
